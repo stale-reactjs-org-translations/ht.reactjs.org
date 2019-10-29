@@ -1,6 +1,6 @@
-# reactjs.org
+# ht.reactjs.org
 
-This repo contains the source code and documentation powering [reactjs.org](https://reactjs.org/).
+This repo contains the source code and documentation powering [ht.reactjs.org] which is the Haitian Creole translation of [reactjs.org](https://reactjs.org).
 
 ## Getting started
 
@@ -25,6 +25,24 @@ This repo contains the source code and documentation powering [reactjs.org](http
 ## Contributing
 
 ### Guidelines
+You've cloned the repo, created your branch, and are armed with your favorite beverage to power you through a coding sprint, now what. The following diagram, highlights the primary files and directories you will modify in order to successfully translate documentation that gets rendered on the site.
+
+```
+.
+├── CODE_OF_CONDUCT.md
+├── GLOSSARY.md
+├── README.md
+├── content
+│   ├── home/
+│   ├── docs/
+│   ├── blog/
+│   ├── tutorial/
+│   ├── 404.md
+│   ...
+├── src
+│   ├── pages/
+│   ...
+```
 
 The documentation is divided into several sections with a different tone and purpose. If you plan to write more than a few sentences, you might find it helpful to get familiar with the [contributing guidelines](https://github.com/reactjs/reactjs.org/blob/master/CONTRIBUTING.md#guidelines-for-text) for the appropriate sections.
 
@@ -57,10 +75,7 @@ The documentation is divided into several sections with a different tone and pur
 
 ## Translation
 
-If you are interested in translating `reactjs.org`, please see the current translation efforts at [isreacttranslatedyet.com](https://www.isreacttranslatedyet.com/).
-
-
-If your language does not have a translation and you would like to create one, please follow the instructions at [reactjs.org Translations](https://github.com/reactjs/reactjs.org-translation#translating-reactjsorg).
+If you are interested in translating `reactjs.org` to **Haitian Creole**, check the translation progress **[here](https://github.com/reactjs/ht.reactjs.org/issues/1)**. Also, when translating any content, make sure to follow our **[Glossary](GLOSSARY.md)**.
 
 ## Troubleshooting
 
