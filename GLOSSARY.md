@@ -10,10 +10,10 @@ Tout tit gen idantifikasyon klè tankou egzanp anba a:
 ## Eseye React {#try-react}
 ```
 
-** Pa ** tradui ID sa yo! Nou itilize yo pou navigasyon. Lyen yo ka kraze si dokiman an se yon lyen ekstèn tankou:
+** Pa ** tradui ID sa yo! Nou itilize yo pou navigasyon. Lyen yo ka pa mache si dokiman an se yon lyen ekstèn tankou:
 
 ```md
-Checke seksyon [An n Kòmanse](/getting-started#try-react) pou plis enfoòmasyon.
+Checke seksyon [An n Kòmanse](/getting-started#try-react) pou plis enfòmasyon.
 ```
 
 ✅ Fè:
@@ -27,12 +27,12 @@ Checke seksyon [An n Kòmanse](/getting-started#try-react) pou plis enfoòmasyon
 ```md
 ## Eseye React {#eseye-react}
 ```
-Eganp sa ta kraze lyen pou seksyon Eseye React la.
+Egzanp sa ta gate lyen pou seksyon Eseye React la.
 
 
 ## Tèks nan Blòk Kòd
 
-Kenbe tèks nan blòk kòd san tradiksyon eksepte pou kòmantè. Ou ka chwazi tradui tèks nan strings, men ou dwe fè atansyon pou pa tradui strings ki refere a kòd la!
+Kenbe tèks nan blòk kòd san tradiksyon eksepte pou kòmantè. Ou ka chwazi tradui tèks nan strings (chèn karaktè), men ou dwe fè atansyon pou pa tradui strings (chèn karaktè) ki refere a kòd la!
 
 Egzanp:
 ```js
@@ -72,7 +72,7 @@ ReactDOM.render(element, document.getElementById('root'));
 ```js
 // Egzanp
 const eleman = <h1>Bonjou, mond</h1>;
-ReactDOM.renderizar(eleman, documento.pranElemanPaId('rasin'));
+ReactDOM.rann(eleman, documento.pranElemanPaId('rasin'));
 ```
 
 Pou lyen ki pa gen okenn tradisyon (StackOverflow, videyo sou YouTube, elatriye), sevi ak lyen orijinal la.
