@@ -84,33 +84,33 @@ The documentation is divided into several sections with a different tone and pur
 
 ## Progress 🚧👷🏼👷🏿👷‍♀️🚧
 
-* [❌] Home Page
-* [❌] Tutorial
-* [❌] Hello World
-* [❌] Introducing JSX
-* [❌] Rendering Elements
-* [❌] Components and Props
-* [❌] State and Lifecycle
-* [❌] Handling Events
-* [❌] Conditional Rendering
-* [❌] Lists and Keys
-* [❌] Forms
-* [❌] Lifting State Up
-* [❌] Composition vs Inheritance
-* [❌] Thinking in React
-* [❌] React
-* [❌] React.Component
-* [❌] ReactDOM
-* [❌] ReactDOMServer
-* [❌] DOM Elements
-* [❌] SyntheticEvent
-* [❌] Test Utilities
-* [❌] Shallow Renderer
-* [❌] Test Renderer
-* [❌] JS Environment Requirements
-* [❌] Glossary
-* [❌] tutorial/nav.yml
-* [❌] docs/nav.yml
+* ❌ Home Page
+* ❌ Tutorial
+* ❌ Hello World
+* ❌ Introducing JSX
+* ❌ Rendering Elements
+* ❌ Components and Props
+* ❌ State and Lifecycle
+* ❌ Handling Events
+* ❌ Conditional Rendering
+* ❌ Lists and Keys
+* ❌ Forms
+* ❌ Lifting State Up
+* ❌ Composition vs Inheritance
+* ❌ Thinking in React
+* ❌ React
+* ❌ React.Component
+* ❌ ReactDOM
+* ❌ ReactDOMServer
+* ❌ DOM Elements
+* ❌ SyntheticEvent
+* ❌ Test Utilities
+* ❌ Shallow Renderer
+* ❌ Test Renderer
+* ❌ JS Environment Requirements
+* ❌ Glossary
+* ❌ tutorial/nav.yml
+* ❌ docs/nav.yml
 
 ## License
 Content submitted to [reactjs.org](https://reactjs.org/) is CC-BY-4.0 licensed, as found in the [LICENSE-DOCS.md](https://github.com/open-source-explorer/reactjs.org/blob/master/LICENSE-DOCS.md) file.
