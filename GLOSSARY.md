@@ -72,7 +72,7 @@ ReactDOM.render(element, document.getElementById('root'));
 ```js
 // Egzanp
 const eleman = <h1>Bonjou, mond</h1>;
-ReactDOM.rann(eleman, documento.pranElemanPaId('rasin'));
+ReactDOM.dokiman(eleman, documento.pranElemanPaId('rasin'));
 ```
 
 Pou lyen ki pa gen okenn tradisyon (StackOverflow, videyo sou YouTube, elatriye), sevi ak lyen orijinal la.
