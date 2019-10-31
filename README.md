@@ -1,4 +1,4 @@
-# ht.reactjs.org
+# ht.reactjs.org 🇭🇹
 
 This repo contains the source code and documentation powering [ht.reactjs.org] which is the Haitian Creole translation of [reactjs.org](https://reactjs.org).
 
@@ -14,7 +14,7 @@ This repo contains the source code and documentation powering [ht.reactjs.org] w
 
 ### Installation
 
-1. `cd reactjs.org` to go into the project root
+1. `cd ht.reactjs.org` to go into the project root
 1. `yarn` to install the website's npm dependencies
 
 ### Running locally
@@ -23,6 +23,11 @@ This repo contains the source code and documentation powering [ht.reactjs.org] w
 1. `open http://localhost:8000` to open the site in your favorite browser
 
 ## Contributing
+
+
+### Translation
+
+If you are interested in translating `reactjs.org` to **Haitian Creole**, check the translation progress **[here](https://github.com/reactjs/ht.reactjs.org/issues/1)**. Also, when translating any content, make sure to follow our **[Glossary](GLOSSARY.md)**.
 
 ### Guidelines
 You've cloned the repo, created your branch, and are armed with your favorite beverage to power you through a coding sprint, now what. The following diagram, highlights the primary files and directories you will modify in order to successfully translate documentation that gets rendered on the site.
@@ -73,13 +78,39 @@ The documentation is divided into several sections with a different tone and pur
 1. Follow GitHub's instructions.
 1. If possible, include screenshots of visual changes. A Netlify build will also be automatically created once you make your PR so other people can see your change.
 
-## Translation
-
-If you are interested in translating `reactjs.org` to **Haitian Creole**, check the translation progress **[here](https://github.com/reactjs/ht.reactjs.org/issues/1)**. Also, when translating any content, make sure to follow our **[Glossary](GLOSSARY.md)**.
-
 ## Troubleshooting
 
 - `yarn reset` to clear the local cache
+
+## Progress 🚧👷🏼👷🏿👷‍♀️🚧
+
+* ❌ Home Page
+* ❌ Tutorial
+* ❌ Hello World
+* ❌ Introducing JSX
+* ❌ Rendering Elements
+* ❌ Components and Props
+* ❌ State and Lifecycle
+* ❌ Handling Events
+* ❌ Conditional Rendering
+* ❌ Lists and Keys
+* ❌ Forms
+* ❌ Lifting State Up
+* ❌ Composition vs Inheritance
+* ❌ Thinking in React
+* ❌ React
+* ❌ React.Component
+* ❌ ReactDOM
+* ❌ ReactDOMServer
+* ❌ DOM Elements
+* ❌ SyntheticEvent
+* ❌ Test Utilities
+* ❌ Shallow Renderer
+* ❌ Test Renderer
+* ❌ JS Environment Requirements
+* ❌ Glossary
+* ❌ tutorial/nav.yml
+* ❌ docs/nav.yml
 
 ## License
 Content submitted to [reactjs.org](https://reactjs.org/) is CC-BY-4.0 licensed, as found in the [LICENSE-DOCS.md](https://github.com/open-source-explorer/reactjs.org/blob/master/LICENSE-DOCS.md) file.
