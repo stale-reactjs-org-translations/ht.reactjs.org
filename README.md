@@ -76,8 +76,18 @@ The documentation is divided into several sections with a different tone and pur
 1. `git push my-fork-name the-name-of-my-branch`
 1. Go to the [reactjs.org repo](https://github.com/reactjs/reactjs.org) and you should see recently pushed branches.
 1. Follow GitHub's instructions.
-1. If possible, include screenshots of visual changes. A [Netlify](https://www.netlify.com/) build will also be automatically created once you make your PR so other people can see your change.
+1. If possible, include screenshots of visual changes. A preview build is triggered after your changes are pushed to GitHub.
 
+<<<<<<< HEAD
+=======
+## Translation
+
+If you are interested in translating `reactjs.org`, please see the current translation efforts at [translations.reactjs.org](https://translations.reactjs.org/).
+
+
+If your language does not have a translation and you would like to create one, please follow the instructions at [reactjs.org Translations](https://github.com/reactjs/reactjs.org-translation#translating-reactjsorg).
+
+>>>>>>> 1e3b023d3192c36a2da7b72389debee2f0e0e8b0
 ## Troubleshooting
 
 - `yarn reset` to clear the local cache
